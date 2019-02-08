@@ -1,0 +1,165 @@
+h1{
+  /* font-family: 'Pacifico', cursive; */
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  font-weight: 700;
+  margin: 0;
+  color: #3161a3;
+}
+h2{
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  color: #13abc4;
+  margin : 0;
+
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+
+}
+body{
+  text-align: center;
+  font-family: 'Arvo', serif;
+  margin: 0;
+
+}
+
+p{
+  line-height: 2;
+}
+
+hr{
+  color: #EAf6f6;
+  width: 5%;
+  border-style: dotted;
+  border-width: 10px;
+  border-bottom: 0;
+  margin: 100px auto;
+}
+
+
+.mountain{
+  width: 70%;
+  margin: 0;
+
+
+}
+
+.cloud-top{
+  width: 20%;
+  position: absolute;
+  right: 100px;
+  top: 50px;
+
+
+}
+.cloud-bottom{
+  width: 20%;
+  position: absolute;
+  left: 50px;
+  top:300px;
+}
+
+.intro-message{
+  width: 30%;
+  margin: 30px auto 0 auto;
+}
+
+.top-container{
+  padding-top: 100px;
+  background-color: #ebfffb;
+  display: inline-block;
+  width: 100%;
+}
+
+
+.profile-pic{
+  border-radius: 100%;
+  width: 20%;
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.bottom-container{
+  background-color: #3161a3;
+  padding: 20px;
+  margin-top: 50px;
+}
+
+.social{
+  color: #aedadd;
+  text-decoration: none;
+  margin: 30px;
+
+}
+
+.skill-para{
+  width: 70%;
+  display: inline-block;
+  position: relative;
+  padding-left: 30px;
+}
+
+.coding-pic{
+  width:20%;
+  float: left;
+  position: relative;
+
+
+}
+
+.bolly-pic{
+  width:20%;
+  float: right;
+  position: relative;
+}
+
+.bollywood{
+  text-align: left;
+  display: inline-block;
+  width: 70%;
+  margin-top: 50px;
+}
+
+.coding{
+  text-align: left;
+  display: inline-block;
+  width: 70%;
+  margin-top: 50px;
+}
+
+.contact-para{
+  width: 50%;
+  margin: 0px auto 30px;
+}
+
+.contact-button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #5893d4;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #1f3c88;
+  margin-bottom: 30px;
+}
+
+.contact-button:hover {background-color: #3161a3}
+
+.contact-button:active {
+  background-color: #1f3c88;
+  box-shadow: 0 5px #1f3c88;
+  transform: translateY(4px);
+}
+
+.copyright{
+  margin-top: 20px;
+  font-size: 0.5rem;
+  color: white;
+
+}
